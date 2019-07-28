@@ -1,0 +1,29 @@
+[
+  {
+    "nome":"Meu Canino Feliz",
+    "distancia":2,
+    "caes_pequenos_uteis":20,
+    "caes_grandes_uteis":40,
+    "caes_pequenos_fds":null,
+    "caes_grandes_fds":null,
+    "taxa_fds":"20%"
+  },
+  {
+    "nome":"Vai Rex",
+    "distancia":1.7,
+    "caes_pequenos_uteis":15,
+    "caes_grandes_uteis":50,
+    "caes_pequenos_fds":20,
+    "caes_grandes_fds":55,
+    "taxa_fds":null
+  },
+  {
+    "nome":"ChowChawgas",
+    "distancia":0.8,
+    "caes_pequenos_uteis":30,
+    "caes_grandes_uteis":45,
+    "caes_pequenos_fds":30,
+    "caes_grandes_fds":45,
+    "taxa_fds":null
+  }
+]
